@@ -29,6 +29,7 @@ python app.py
 ```
 
 Open `http://127.0.0.1:5000` and submit the form.
+Depolyed link : https://eat-it-29.vercel.app/
 
 ## Deploy to Vercel
 
